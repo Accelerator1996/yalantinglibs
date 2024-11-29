@@ -1,6 +1,6 @@
 name: Clang Format Diff
 
-on:
+#on:
   push:
     branches: [ main, develop ]
   pull_request:

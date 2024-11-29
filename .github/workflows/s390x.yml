@@ -1,6 +1,6 @@
 name: IBM S390X
 
-on:
+#on:
   push:
    branches: [ main, develop ]
   pull_request:
