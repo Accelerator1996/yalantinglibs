@@ -1,5 +1,5 @@
 name: cleanup closed branch's caches
-on:
+#on:
   pull_request:
     types:
       - closed

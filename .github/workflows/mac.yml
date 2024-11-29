@@ -1,6 +1,6 @@
 name: macOS Monterey 12
 
-on:
+#on:
   workflow_call:
   push:
    branches: [ main, develop ]
